@@ -1,0 +1,42 @@
+textObsahArray[0] = ("")
+textObsahArray[1] = ("")
+textObsahArray[2] = ("")
+textObsahArray[3] = ("")
+textObsahArray[4] = ("")
+textObsahArray[5] = ("")
+textObsahArray[6] = ("")
+textObsahArray[7] = ("")
+textObsahArray[8] = ("")
+textObsahArray[9] = ("")
+
+chyba1 = ("")
+spravne1 = ("")
+
+chyba2 = ("")
+spravne2 = ("")
+
+chyba3 = ("")
+spravne3 = ("")
+
+chyba4 = ("")
+spravne4 = ("")
+
+chyba5 = ("")
+spravne5 = ("")
+
+chyba6 = ("")
+spravne6 = ("")
+
+chyba7 = ("")
+spravne7 = ("")
+
+chyba8 = ("")
+spravne8 = ("")
+
+chyba9 = ("")
+spravne9 = ("")
+
+chyba0 = ("")
+spravne0 = ("")
+
+
