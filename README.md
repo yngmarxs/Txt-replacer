@@ -6,3 +6,4 @@ an input file (whatever.txt) in ./input/whatever.txt
 an output folder ./output/ (is gonna be saved as whateverx.txt)
 an config and a config folder (ProfileName.txt) in ./config/ProfileName.txt
 the extensions are added in the program (all of them are txt)
+you need to have the exact format of the config, or the script will break
